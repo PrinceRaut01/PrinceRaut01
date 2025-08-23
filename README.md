@@ -48,10 +48,10 @@
 
 ---
 
-- 👨‍💻 **GitHub ID:** [PrinceRaut01](https://github.com/PrinceRaut01)  
-- 🧑‍💼 **Name:** Prince  
-- 📛 **Full Name:** Prince Raut  
-- 📧 **Email:** [princerautit21@gmail.com](mailto:princerautit21@gmail.com)  
+- 👨‍💻 **GitHub ID:** [PrinceRaut01](https://github.com/PrinceRaut01)   
+- 📛 **Full Name:** Prince Raut
+- 📧 **Email:** [princerautit21@gmail.com](mailto:princerautit21@gmail.com)
+- 🔥 **Quote:** "Code is like humor. When you have to explain it, it’s bad."
 
 ---
 
