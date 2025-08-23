@@ -6,8 +6,16 @@
   🛠️ Building digital experiences one commit at a time<br>
   🎯 Turning ideas into scalable solutions<br>
   🧠 Passionate about clean code and innovative tech<br>
-  🐍 Watch my contributions get eaten by this cool snake!
+  🐍 Watch my contributions get eaten by this cool snake!<br><br>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrinceRaut01/PrinceRaut01/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrinceRaut01/PrinceRaut01/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/PrinceRaut01/PrinceRaut01/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </picture>
 </div>
+
+
 
 
 <p align="center">
