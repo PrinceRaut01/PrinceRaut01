@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Prince Raut 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full-Stack%20Developer;Problem%20Solver;IT%20Engineer%20%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Embedded Systems%20Programmer;Problem%20Solver;IT%20Engineer%20%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 </p>
 <div align="center">
   🛠️ Building digital experiences one commit at a time<br>
