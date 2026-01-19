@@ -1,12 +1,15 @@
-<h1 align="center">Hi, I'm Prince Raut 👋</h1>
+<h1 align="center">Hi, I'm Prince Raut </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Embedded Systems%20Programmer;Problem%20Solver;IT%20Engineer%20%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Embedded+System+Programmer;Problem+Solver;IT+Engineer+" 
+    alt="Typing SVG" 
+  />
 </p>
 <div align="center">
-  🛠️ Building digital experiences one commit at a time<br>
-  🎯 Turning ideas into scalable solutions<br>
-  🧠 Passionate about clean code and innovative tech<br>
-  🐍 Watch my contributions get eaten by this cool snake!<br><br>
+   Building digital experiences one commit at a time<br>
+   Turning ideas into scalable solutions<br>
+   Passionate about clean code and innovative tech<br>
+   Watch my contributions get eaten by this cool snake!<br><br>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrinceRaut01/PrinceRaut01/output/github-contribution-grid-snake-dark.svg">
@@ -19,7 +22,7 @@
 
 
 <p align="center">
-  <strong>📊 My GitHub Universe in 3D</strong>
+  <strong> My GitHub Universe in 3D</strong>
 </p>
 
 <picture>
@@ -35,38 +38,38 @@
 ---
 
 
-<h2 align="center">🌟 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif"/>
 </p>
 
 <p align="center">
-  👋 Hey there! I'm <strong>Prince Raut</strong>, a passionate <em>developer And an IT-Engineer</em> 🚀<br>
-  Always curious, always learning, and always building cool stuff 💡
+   Hey there! I'm <strong>Prince Raut</strong>, a passionate <em>developer And an IT-Engineer</em> <br>
+  Always curious, always learning, and always building cool stuff 
 </p>
 
 ---
 
-- 👨‍💻 **GitHub ID:** [PrinceRaut01](https://github.com/PrinceRaut01)   
-- 📛 **Full Name:** Prince Raut
-- 📧 **Email:** [princerautit21@gmail.com](mailto:princerautit21@gmail.com)
-- 🔥 **Quote:** "Code is like humor. When you have to explain it, it’s bad."
+-  **GitHub ID:** [PrinceRaut01](https://github.com/PrinceRaut01)   
+-  **Full Name:** Prince Raut
+-  **Email:** [princerautit21@gmail.com](mailto:princerautit21@gmail.com)
+-  **Quote:** "Code is like humor. When you have to explain it, it’s bad."
 
 ---
 
 <p align="center">
-  ⚡ <em>"Code is like art — every line tells a story."</em> 🎨
+  ⚡ <em>"Code is like art — every line tells a story."</em> 
 </p>
 
 
 
 ---
 
-<h2 align="center">🎯 Current Goals & Roadmap</h2>
+<h2 align="center"> Current Goals & Roadmap</h2>
 
 <details>
-<summary>📈 2025 Goals (Click to expand)</summary>
+<summary> 2025 Goals (Click to expand)</summary>
 
 - [ ] Contribute to an open-source project
 - [ ] Build and deploy a full-stack application
@@ -78,7 +81,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center"> GitHub Analytics</h2>
 
 <div align="center">
   <picture>
@@ -94,7 +97,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=PrinceRaut01&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=PrinceRaut01&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true" />
-    <img src="https://github-contributor-stats.vercel.app/api?username=PrinceRaut01&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true" width="50.9%" alt="GitHub Contributor Stats badge" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceRaut01&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut" />
@@ -128,7 +130,7 @@
 
 ---
 
-<h2 align="center">📫 Let's Connect</h2>
+<h2 align="center"> Let's Connect</h2>
 <p align="center">
   <a href="mailto:princerautit21@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -140,7 +142,7 @@
 
 ---
 
-<h2 align="center">💭 Dev Quotes</h2>
+<h2 align="center"> Dev Quotes</h2>
 
 <p align="center">
   <picture>
@@ -153,6 +155,6 @@
 ---
 
 <p align="center">
-  <strong>💬 "Code with purpose, build with passion, and let every commit tell your story."</strong><br>
-  — Prince Raut 😎
+  <strong> "Code with purpose, build with passion, and let every commit tell your story."</strong><br>
+  — Prince Raut 
 </p>
