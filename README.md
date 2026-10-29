@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Prince Raut </h1>
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Embedded+System+Programmer;Problem+Solver;IT+Engineer+" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Firmware+Developer;Problem+Solver;IT+Engineer+" 
     alt="Typing SVG" 
   />
 </p>
